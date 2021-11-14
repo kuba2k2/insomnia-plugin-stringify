@@ -1,0 +1,19 @@
+{
+  "name": "@kuba2k2/insomnia-plugin-stringify",
+  "version": "0.1.0",
+  "description": "Convert object to JSON string.",
+  "license": "MIT",
+  "insomnia": {
+    "name": "stringify",
+    "description": "Convert object to JSON string."
+  },
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuba2k2/insomnia-plugin-stringify.git"
+  },
+  "keywords": [
+    "insomnia-plugin"
+  ],
+  "author": "Kuba Szczodrzyński <kuba@szczodrzynski.pl>"
+}
